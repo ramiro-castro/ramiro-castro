@@ -64,5 +64,7 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro-castro&layout=compact&theme=transparent&title_color=268bd2" alt="ramiro-castro" />
 </p>
 
+<br />
+<br />
 
 ⭐️ Inspirado por [CallmeMehdi](https://github.com/CallmeMehdi) e por [johnatas-henrique](https://github.com/johnatas-henrique)
