@@ -28,7 +28,7 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/ramirodecastro/)](https://www.linkedin.com/)
+[![linkedin](linkedin-original.svg)](https://www.linkedin.com/in/ramirodecastro/)
 
 
 
