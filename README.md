@@ -33,8 +33,6 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 
 <br />
 <br />
-<br />
-<br />
 
 ## 🛠 Linguagens e ferramentas
 <p align="left">
