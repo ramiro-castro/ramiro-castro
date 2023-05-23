@@ -31,7 +31,8 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 
 📫 Por gentileza, me contate através do email ramiro.castrocavalcanti@gmail.caso queira me encontrar;
 
-
+<br />
+<br />
 ## 🛠 Linguagens e ferramentas
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
