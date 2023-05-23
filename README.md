@@ -29,9 +29,8 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 
 💬 Pergunte-me sobre qualquer coisa, adoro me comunicar e ajudar pessoas;
 
-📫 Por gentileza, me contate através do email ramiro.castrocavalcanti@gmail.caso queira me encontrar;
+📫 Por gentileza, me contate através do email ramiro.castrocavalcanti@gmail caso queira me encontrar;
 
-<br />
 <br />
 
 ## 🛠 Linguagens e ferramentas
