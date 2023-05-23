@@ -52,3 +52,5 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <p>
+
+⭐️ Inspirado por [CallmeMehdi](https://github.com/CallmeMehdi) e por [johnatas-henrique](https://github.com/johnatas-henrique)
