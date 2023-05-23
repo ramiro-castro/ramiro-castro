@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/ramirodecastro">
-  <img src="linkedin-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 20px; height: 20px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 20px; height: 20px">
 </a>
 
 <br />
