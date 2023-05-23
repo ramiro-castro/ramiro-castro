@@ -55,5 +55,14 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <p>
+  
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramiro-castro&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="ramiro-castro" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro-castro&layout=compact&theme=transparent&title_color=268bd2" alt="ramiro-castro" />
+</p>
+
 
 ⭐️ Inspirado por [CallmeMehdi](https://github.com/CallmeMehdi) e por [johnatas-henrique](https://github.com/johnatas-henrique)
