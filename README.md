@@ -23,6 +23,8 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 
 <img align="right" alt="GIF" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500" width="400px" />
 
+<br />
+
 🧠 Estou revisando, para melhor aprender e me aprofundar, as diversas tecnologias front-end e back-end que usei em meus projetos. Tecnologias como CSS, React com redux, Typescript, porém, especialmente Programacao Orientada a Objetos, que auxilia na escrita de códigos mais compreensíveis e de maior capacidade de manutenção;
 
 :musical_note: meus hobbies são praticar atividades fisicas, cantar e ver filmes em boa companhia; 
