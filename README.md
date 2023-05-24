@@ -57,7 +57,7 @@ Sendo assim, almejo transformar cada vez mais as competências que venho adquiri
 <p>
   
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramiro-castro&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="ramiro-castro" />
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramiro-castro&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="ramiro-castro" />
 </p>
 
 <p>
