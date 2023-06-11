@@ -17,7 +17,7 @@ Na época, não pude concluir o curso, então passei um tempo afastado da área,
 
 Em 2020, durante a pandemia, tive experiências utilizando plataformas digitais para ensinar meus alunos, algo que reforçou minha curiosidade e admiração pela área de TI e me impulsionou a retomar meus estudos na mesma.
 
-Sendo assim, almejo transformar cada vez mais as competências que venho adquirindo nos estudos de programação em habilidades sólidas. Por isso, estou em busca de uma vaga como desenvolvedor web júnior, especialmente em empresas que oferecem soluções de TI para educação. 
+Sendo assim, almejo transformar cada vez mais essas competências em habilidades sólidas. Por isso, estou em busca de uma vaga como desenvolvedor web júnior, especialmente em uma empresa comprometida com soluções inovadoras para a comunidade e o constante aperfeiçoamento de sua equipe.
 
 ## Informações adicionais
 
