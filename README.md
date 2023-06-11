@@ -33,7 +33,7 @@ Sendo assim, almejo transformar cada vez mais essas competências em habilidades
 
 📫 Por gentileza, me contate através do email ramiro.castrocavalcanti@gmail.com caso queira me encontrar;
 
-:file_folder: Para mais informações, veja meu Curriculum Vitae <a href="https://github.com/ramiro-castro/ramiro-castro/blob/main/ramiro-castro-curriculo.pdf" target="_blank">clicando aqui</a>.
+:file_folder: Para mais informações, veja meu Curriculum Vitae <a href="https://github.com/ramiro-castro/ramiro-castro/blob/main/RamiroCastroCurriculo.pdf" target="_blank">clicando aqui</a>.
 
 <br />
 <br />
