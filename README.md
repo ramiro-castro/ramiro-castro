@@ -15,7 +15,7 @@ Desde a infância, tenho grande admiração por Tecnologia da Informação (TI).
 
 Na época, não pude concluir o curso, então passei um tempo afastado da área, atuando como professor particular. Essa atuação, ampliou minha empatia, capacidade de comunicação e entendimento de protagonismo através do conhecimento.
 
-Em 2020, durante a pandemia, tive experiências utilizando plataformas digitais para ensinar meus alunos, algo que reforçou minha curiosidade e admiração pela área de TI e me impulsionou a retomar meus estudos na mesma.
+Em 2020, durante a pandemia, tive experiências utilizando plataformas digitais para ensinar meus alunos, algo que reforçou minha curiosidade e admiração pela área de TI e me impulsionou a retomar meus estudos na mesma, em especial por desenvolvimento web.
 
 Sendo assim, almejo transformar cada vez mais essas competências em habilidades sólidas. Por isso, estou em busca de uma vaga como desenvolvedor web júnior, especialmente em uma empresa comprometida com soluções inovadoras para a comunidade e o constante aperfeiçoamento de sua equipe.
 
@@ -31,7 +31,7 @@ Sendo assim, almejo transformar cada vez mais essas competências em habilidades
 
 💬 Pergunte-me sobre qualquer coisa, adoro me comunicar e ajudar pessoas;
 
-📫 Por gentileza, me contate através do email ramirodeveloper93@gmail.com caso queira me encontrar;
+📫 Por gentileza, me contate através do email mirodev93@gmail.com caso queira me encontrar;
 
 :file_folder: Para mais informações, veja meu Curriculum Vitae <a href="https://github.com/ramiro-castro/ramiro-castro/blob/main/RamiroCastroCurriculo.pdf" target="_blank">clicando aqui</a>.
 
