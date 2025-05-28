@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou do Piauí, Brasil, graduando em Ciencia da Computação e aspirante a Desenvolvedor Web.
+Sou do Piauí, Brasil, graduando em <strong>Ciencia da Computação</strong> e aspirante a <strong>Desenvolvedor Web</strong>.
 
 ## Informações adicionais
 
@@ -17,9 +17,16 @@ Sou do Piauí, Brasil, graduando em Ciencia da Computação e aspirante a Desenv
 
 <br />
 
-🧠 Estou revisando, para melhor aprender e me aprofundar, as diversas tecnologias front-end e back-end. Tecnologias como CSS, React com redux, Typescript, porém, especialmente Programacao Orientada a Objetos, que auxilia na escrita de códigos mais compreensíveis e de maior capacidade de manutenção;
+<h3>🧠 Tecnologias que estou estudando:</h3>
+<ul>
+  <li><strong>CSS</strong></li>
+  <li><strong>React</strong> (com Redux)</li>
+  <li><strong>TypeScript</strong></li>
+</ul>
 
-:musical_note: meus hobbies são música (ouvir, cantar), filmes e atividades físicas; 
+<p><strong>Programação Orientada a Objetos</strong> (para códigos mais legíveis e de facil manutenção).</p>
+
+:musical_note: música (ouvir, cantar), filmes e atividades físicas são meus hobbies; 
 
 💬 Pergunte-me sobre qualquer coisa, adoro me comunicar;
 
