@@ -22,9 +22,8 @@ Sou do Piauí, Brasil, graduando em <strong>Ciencia da Computação</strong> e a
   <li><strong>CSS</strong></li>
   <li><strong>React</strong> (com Redux)</li>
   <li><strong>TypeScript</strong></li>
+  <pli><strong>Programação Orientada a Objetos</strong> (para códigos mais legíveis e de facil manutenção).</li>
 </ul>
-
-<p><strong>Programação Orientada a Objetos</strong> (para códigos mais legíveis e de facil manutenção).</p>
 
 :musical_note: música (ouvir, cantar), filmes e atividades físicas são meus hobbies; 
 
